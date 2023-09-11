@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth="Hello World" height="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Hello World%20Test&fontAlign=70&stroke=4c4cff&strokeWidth=3 height="300"/>
 </div>
 
 <!--
