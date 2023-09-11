@@ -60,5 +60,6 @@ hobbies: ["Gaming", "Astonomy", "Sci-Fi Books", "Gardening"]
 </p>
 
 -----
-
+##### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DracoNibilis)](https://github.com/anuraghazra/github-readme-stats)
 
