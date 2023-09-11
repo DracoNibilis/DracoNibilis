@@ -1,5 +1,5 @@
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Hello%20World&fontAlign=70&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&text=Hello%20World&fontAlign=90&fontSize=60" />
 
 
 <!--
