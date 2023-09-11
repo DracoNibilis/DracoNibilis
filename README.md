@@ -36,6 +36,18 @@ fields_of_interests:
 
   ]
 
+pinned_projects:
+  [
+    MySQL_Neo4j_Python_Application: ["Python application which is displaying information about employees, salaries and department fetched from MYsql and neo4j databases."],
+    data-representation-project: ["Web application in Flask that has a RESTful API and it's linked to the database which is created and stored on eu.pythonanywhere.com. Web page consume the API and performs CRUD operations on data. Application is create to stock list of planets already discovered in our Solar System and beyond."],
+    Stars_Project: [" ----"],
+    Sun_Website_Project: [" ----"],
+    CAO_Points_Analysis: ["Python based CAO Points analysis which including: clear overview of how to load information from the CAO website into a pandas data frame, detailed comparison of points from 2010 - 2021, appropiated plots plus KDE plots."],
+    Google_Data_Analytics_Capstone-Case_Study: ["RStudio based analysis of BellaBeat smart device data. Main task was focused on gaining insight into how customers are using their smart devices, based on registered activity. Raport was prepared according to the Google Data Analytics Certificate proces."]
+
+  ]
+  
+
 hobbies: ["Gaming", "Astonomy", "Sci-Fi Books", "Gardening"]
 ```
 
