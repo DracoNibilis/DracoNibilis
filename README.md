@@ -1,6 +1,7 @@
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=1000&height=300&section=header&text=Hello%20World&fontAlign=70&fontSize=60" />
-
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&width=1000&height=300&section=header&text=Hello%20World&fontAlign=70&fontSize=60" />
+  </div>
 
 <!--
 **DracoNibilis/DracoNibilis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
