@@ -1,4 +1,4 @@
-<p align="center"  width="600" color="blue"> WELCOME 👋</p>
+<p align="center"  width="600" style="color:blue"> WELCOME 👋</p>
 
 <!--
 **DracoNibilis/DracoNibilis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" width="800"/>
 </div>
