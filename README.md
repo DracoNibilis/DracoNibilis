@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" height="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3" height="300"/>
 </div>
 
 <!--
@@ -14,6 +14,7 @@
 -----
 
 ### Something About Me
+---
 ```yaml
 name: Magdalena Malik
 located_in: Galway, Ireland
@@ -41,6 +42,7 @@ hobbies: ["Gaming", "Astonomy", "Sci-Fi Books", "Gardening"]
 -----
 
 ### Some Languages and Tools I Have Used and Learned
+---
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
@@ -55,11 +57,8 @@ hobbies: ["Gaming", "Astonomy", "Sci-Fi Books", "Gardening"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascipt" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45" />
-                   
-          
-          
-                               
-          
-          
-          
 </p>
+
+-----
+
+
