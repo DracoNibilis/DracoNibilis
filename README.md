@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=Hello World" height="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth="Hello World" height="300"/>
 </div>
 
 <!--
@@ -63,5 +63,5 @@ hobbies: ["Gaming", "Astonomy", "Sci-Fi Books", "Gardening"]
 ##### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DracoNibilis&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoNibilis&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DracoNibilis&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
